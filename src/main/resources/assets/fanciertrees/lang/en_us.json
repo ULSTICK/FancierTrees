@@ -1,0 +1,28 @@
+{
+  "itemGroup.fanciertrees": "Fancier Trees",
+
+  "block.fanciertrees.oak_branch": "Oak Branch",
+  "block.fanciertrees.spruce_branch": "Spruce Branch",
+  "block.fanciertrees.birch_branch": "Birch Branch",
+  "block.fanciertrees.jungle_branch": "Jungle Branch",
+  "block.fanciertrees.acacia_branch": "Acacia Branch",
+  "block.fanciertrees.dark_oak_branch": "Dark Oak Branch",
+  "block.fanciertrees.mangrove_branch": "Mangrove Branch",
+  "block.fanciertrees.cherry_branch": "Cherry Branch",
+  "block.fanciertrees.crimson_branch": "Crimson Branch",
+  "block.fanciertrees.warped_branch": "Warped Branch",
+
+  "block.fanciertrees.bop_dead_branch": "Dead Branch",
+  "block.fanciertrees.bop_fir_branch": "Fir Branch",
+  "block.fanciertrees.bop_jacaranda_branch": "Jacaranda Branch",
+  "block.fanciertrees.bop_mahogany_branch": "Mahogany Branch",
+  "block.fanciertrees.bop_maple_branch": "Maple Branch",
+  "block.fanciertrees.bop_palm_branch": "Palm Branch",
+  "block.fanciertrees.bop_pine_branch": "Pine Branch",
+  "block.fanciertrees.bop_redwood_branch": "Redwood Branch",
+  "block.fanciertrees.bop_willow_branch": "Willow Branch",
+  "block.fanciertrees.bop_magic_branch": "Magic Branch",
+  "block.fanciertrees.bop_umbran_branch": "Umbran Branch",
+  "block.fanciertrees.bop_empyreal_branch": "Empyreal Branch",
+  "block.fanciertrees.bop_hellbark_branch": "Hellbark Branch"
+}

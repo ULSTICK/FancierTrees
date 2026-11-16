@@ -1,0 +1,7 @@
+{
+  "parent": "fanciertrees:block/branch_side",
+  "textures": {
+    "log": "biomesoplenty:block/jacaranda_log",
+    "log_top": "biomesoplenty:block/jacaranda_log_top"
+  }
+}

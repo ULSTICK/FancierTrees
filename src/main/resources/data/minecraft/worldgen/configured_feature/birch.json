@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "fanciertrees:birch/birch1",
+    "features": [
+      {
+        "chance": 0.23,
+        "feature": "fanciertrees:birch/birch2"
+      },
+      {
+        "chance": 0.23,
+        "feature": "fanciertrees:birch/birch3"
+      },
+      {
+        "chance": 0.15,
+        "feature": "fanciertrees:birch/small1"
+      },
+      {
+        "chance": 0.15,
+        "feature": "fanciertrees:birch/small2"
+      }
+    ]
+  }
+}

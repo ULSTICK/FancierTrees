@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "fanciertrees:cherry/cherry1",
+    "features": [
+      {
+        "chance": 0.2,
+        "feature": "fanciertrees:cherry/cherry2"
+      },
+      {
+        "chance": 0.2,
+        "feature": "fanciertrees:cherry/cherry3"
+      },
+      {
+        "chance": 0.2,
+        "feature": "fanciertrees:cherry/cherry4"
+      },
+      {
+        "chance": 0.2,
+        "feature": "fanciertrees:cherry/small1"
+      },
+      {
+        "chance": 0.2,
+        "feature": "fanciertrees:cherry/small2"
+      }
+    ]
+  }
+}

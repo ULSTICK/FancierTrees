@@ -1,0 +1,7 @@
+{
+  "parent": "fanciertrees:block/branch_side",
+  "textures": {
+    "log": "minecraft:block/crimson_stem",
+    "log_top": "minecraft:block/crimson_stem_top"
+  }
+}

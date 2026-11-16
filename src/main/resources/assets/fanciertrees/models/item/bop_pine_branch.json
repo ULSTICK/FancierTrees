@@ -1,0 +1,7 @@
+{
+  "parent": "fanciertrees:block/branch_item",
+  "textures": {
+    "log": "biomesoplenty:block/pine_log",
+    "log_top": "biomesoplenty:block/pine_log_top"
+  }
+}

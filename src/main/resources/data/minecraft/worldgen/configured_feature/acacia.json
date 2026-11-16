@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "fanciertrees:acacia/acacia1",
+    "features": [
+      {
+        "chance": 0.142,
+        "feature": "fanciertrees:acacia/acacia2"
+      },
+      {
+        "chance": 0.142,
+        "feature": "fanciertrees:acacia/acacia3"
+      },
+      {
+        "chance": 0.142,
+        "feature": "fanciertrees:acacia/acacia4"
+      },
+      {
+        "chance": 0.142,
+        "feature": "fanciertrees:acacia/acacia5"
+      },
+      {
+        "chance": 0.142,
+        "feature": "fanciertrees:acacia/acacia6"
+      },
+      {
+        "chance": 0.142,
+        "feature": "fanciertrees:acacia/acacia7"
+      }
+    ]
+  }
+}

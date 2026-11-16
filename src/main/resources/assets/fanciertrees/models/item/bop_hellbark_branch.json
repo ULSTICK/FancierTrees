@@ -1,0 +1,7 @@
+{
+  "parent": "fanciertrees:block/branch_item",
+  "textures": {
+    "log": "biomesoplenty:block/hellbark_log",
+    "log_top": "biomesoplenty:block/hellbark_log_top"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "fanciertrees:block/branch_base",
+  "textures": {
+    "log": "biomesoplenty:block/palm_log"
+  }
+}

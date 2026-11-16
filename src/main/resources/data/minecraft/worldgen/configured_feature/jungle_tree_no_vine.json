@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "fanciertrees:jungle/jungle_novine1",
+    "features": [
+      {
+        "chance": 0.23,
+        "feature": "fanciertrees:jungle/jungle_novine2"
+      },
+      {
+        "chance": 0.23,
+        "feature": "fanciertrees:jungle/jungle_novine3"
+      },
+      {
+        "chance": 0.1,
+        "feature": "fanciertrees:jungle/small1"
+      },
+      {
+        "chance": 0.1,
+        "feature": "fanciertrees:jungle/small2"
+      },
+      {
+        "chance": 0.1,
+        "feature": "fanciertrees:jungle/small3"
+      }
+    ]
+  }
+}

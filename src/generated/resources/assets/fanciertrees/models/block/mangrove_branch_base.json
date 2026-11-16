@@ -1,0 +1,6 @@
+{
+  "parent": "fanciertrees:block/branch_base",
+  "textures": {
+    "log": "minecraft:block/mangrove_log"
+  }
+}
