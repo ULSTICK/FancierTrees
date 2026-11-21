@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "fanciertrees:bop/snowblossom/snowblossom1",
+    "features": [
+      {
+        "chance": 0.2,
+        "feature": "fanciertrees:bop/snowblossom/snowblossom2"
+      },
+      {
+        "chance": 0.2,
+        "feature": "fanciertrees:bop/snowblossom/snowblossom3"
+      },
+      {
+        "chance": 0.2,
+        "feature": "fanciertrees:bop/snowblossom/snowblossom4"
+      },
+      {
+        "chance": 0.2,
+        "feature": "fanciertrees:bop/snowblossom/small1"
+      },
+      {
+        "chance": 0.2,
+        "feature": "fanciertrees:bop/snowblossom/small2"
+      }
+    ]
+  }
+}

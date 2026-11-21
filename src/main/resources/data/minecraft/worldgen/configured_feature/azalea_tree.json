@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "fanciertrees:azalea/azalea1",
+    "features": [
+      {
+        "chance": 0.5,
+        "feature": "fanciertrees:azalea/azalea2"
+      }
+    ]
+  }
+}

@@ -49,7 +49,7 @@
     ],
     "max_log_depth": 3,
     "orientation": "STANDARD",
-    "random_rotation": true,
+    "random_rotation": false,
     "replace_from_nbt": {
       "fanciertrees:dark_oak_branch": {
         "type": "minecraft:simple_state_provider",

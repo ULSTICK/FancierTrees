@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "biomesoplenty"
+    }
+  ],
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "fanciertrees:bop/empyreal/empyreal1",
+    "features": [
+      {
+        "chance": 0.3,
+        "feature": "fanciertrees:bop/empyreal/empyreal2"
+      },
+      {
+        "chance": 0.2,
+        "feature": "fanciertrees:bop/empyreal/small1"
+      },
+      {
+        "chance": 0.2,
+        "feature": "fanciertrees:bop/empyreal/small2"
+      }
+    ]
+  }
+}

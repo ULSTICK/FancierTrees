@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "biomesoplenty"
+    }
+  ],
+  "replace": false,
+  "values": [
+    "#minecraft:dirt",
+	"minecraft:end_stone",
+	"biomesoplenty:unmapped_end_stone",
+	"biomesoplenty:null_end_stone",
+	"biomesoplenty:algal_end_stone"
+  ]
+}
