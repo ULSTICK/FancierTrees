@@ -30,6 +30,11 @@ public class ModItemGroup {
                 entries.accept(ModBlocks.CRIMSON_BRANCH.get());
                 entries.accept(ModBlocks.WARPED_BRANCH.get());
 
+                if (ModList.get().isLoaded("vanillabackport")) {
+                    entries.accept(ModBlocksBackport.PALE_OAK_BRANCH.get());
+                    entries.accept(ModBlocksBackport.POPLAR_BRANCH.get());
+                }
+
                 if (ModList.get().isLoaded("biomesoplenty")) {
                     entries.accept(ModBlocksBoP.DEAD_BRANCH.get());
                     entries.accept(ModBlocksBoP.FIR_BRANCH.get());

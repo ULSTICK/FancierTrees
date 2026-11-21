@@ -43,6 +43,13 @@ Branch
     side="BOTH"
 
 [[dependencies.fanciertrees]]
+modId="vanillabackport"
+type="optional"
+versionRange="[1.2.2,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.fanciertrees]]
     modId="biomesoplenty"
     type="optional"
     versionRange="[21.1.0.14,)"

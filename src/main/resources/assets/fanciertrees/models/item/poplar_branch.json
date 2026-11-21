@@ -1,0 +1,7 @@
+{
+  "parent": "fanciertrees:block/branch_item",
+  "textures": {
+    "log": "minecraft:block/poplar_log",
+    "log_top": "minecraft:block/poplar_log_top"
+  }
+}

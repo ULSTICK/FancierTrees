@@ -19,6 +19,9 @@ public class FancierTrees {
         modEventBus.addListener(this::commonSetup);
 
         ModBlocks.registerBranches(modEventBus);
+        if (ModList.get().isLoaded("vanillabackport")) {
+            ModBlocksBackport.registerBranches(modEventBus);
+        }
         if (ModList.get().isLoaded("biomesoplenty")) {
             ModBlocksBoP.registerBranches(modEventBus);
         }

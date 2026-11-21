@@ -11,6 +11,9 @@
     "fanciertrees:crimson_branch",
     "fanciertrees:warped_branch",
 
+    { "required": false, "id": "fanciertrees:pale_oak_branch" },
+    { "required": false, "id": "fanciertrees:poplar_branch" },
+
     { "required": false, "id": "fanciertrees:bop_dead_branch" },
     { "required": false, "id": "fanciertrees:bop_fir_branch" },
     { "required": false, "id": "fanciertrees:bop_jacaranda_branch" },
