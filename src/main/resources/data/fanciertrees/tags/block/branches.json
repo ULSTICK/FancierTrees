@@ -6,9 +6,23 @@
     "fanciertrees:jungle_branch",
     "fanciertrees:acacia_branch",
     "fanciertrees:dark_oak_branch",
-    "fanciertrees:cherry_branch",
     "fanciertrees:mangrove_branch",
+    "fanciertrees:cherry_branch",
     "fanciertrees:crimson_branch",
-    "fanciertrees:warped_branch"
+    "fanciertrees:warped_branch",
+
+    { "required": false, "id": "fanciertrees:bop_dead_branch" },
+    { "required": false, "id": "fanciertrees:bop_fir_branch" },
+    { "required": false, "id": "fanciertrees:bop_jacaranda_branch" },
+    { "required": false, "id": "fanciertrees:bop_mahogany_branch" },
+    { "required": false, "id": "fanciertrees:bop_maple_branch" },
+    { "required": false, "id": "fanciertrees:bop_palm_branch" },
+    { "required": false, "id": "fanciertrees:bop_pine_branch" },
+    { "required": false, "id": "fanciertrees:bop_redwood_branch" },
+    { "required": false, "id": "fanciertrees:bop_willow_branch" },
+    { "required": false, "id": "fanciertrees:bop_magic_branch" },
+    { "required": false, "id": "fanciertrees:bop_umbran_branch" },
+    { "required": false, "id": "fanciertrees:bop_empyreal_branch" },
+    { "required": false, "id": "fanciertrees:bop_hellbark_branch" }
   ]
 }
