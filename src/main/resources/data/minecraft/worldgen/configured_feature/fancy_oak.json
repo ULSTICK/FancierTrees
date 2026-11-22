@@ -1,18 +1,14 @@
 {
   "type": "minecraft:random_selector",
   "config": {
-    "default": "fanciertrees:oak/small1",
+    "default": "fanciertrees:oak/large1",
     "features": [
       {
-        "chance": 0.2,
-        "feature": "fanciertrees:oak/large1"
-      },
-      {
-        "chance": 0.2,
+        "chance": 0.333,
         "feature": "fanciertrees:oak/large2"
       },
       {
-        "chance": 0.2,
+        "chance": 0.333,
         "feature": "fanciertrees:oak/large3"
       }
     ]

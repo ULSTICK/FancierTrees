@@ -1,22 +1,45 @@
 {
   "type": "minecraft:random_selector",
   "config": {
-    "default": "fanciertrees:oak/beech1",
+    "default": "fanciertrees:oak/oak1",
     "features": [
       {
-        "chance": 0.25,
+        "chance": 0.12,
+        "feature": "fanciertrees:oak/oak2"
+      },
+      {
+        "chance": 0.12,
+        "feature": "fanciertrees:oak/oak3"
+      },
+	  
+      {
+        "chance": 0.12,
+        "feature": "fanciertrees:oak/small1"
+      },
+      {
+        "chance": 0.12,
+        "feature": "fanciertrees:oak/small2"
+      },
+
+      {
+        "chance": 0.08,
         "feature": "fanciertrees:oak/beech2"
       },
       {
-        "chance": 0.15,
-        "feature": "fanciertrees:oak/beech3"
+        "chance": 0.08,
+        "feature": "fanciertrees:oak/beech2"
       },
       {
-        "chance": 0.15,
+        "chance": 0.08,
+        "feature": "fanciertrees:oak/beech3"
+      },
+
+      {
+        "chance": 0.08,
         "feature": "fanciertrees:oak/smallbeech1"
       },
       {
-        "chance": 0.15,
+        "chance": 0.08,
         "feature": "fanciertrees:oak/smallbeech2"
       }
     ]
