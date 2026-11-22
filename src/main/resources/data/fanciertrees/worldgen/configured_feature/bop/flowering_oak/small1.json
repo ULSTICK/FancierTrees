@@ -30,7 +30,7 @@
         "type": "minecraft:weighted_state_provider",
         "entries": [
           {
-            "weight": 1,
+            "weight": 2,
             "data": {
               "Name": "minecraft:oak_leaves",
               "Properties": {
@@ -60,14 +60,15 @@
     "log_provider": {
       "type": "minecraft:simple_state_provider",
       "state": {
-        "Name": "minecraft:oak_log",
+        "Name": "fanciertrees:oak_branch",
         "Properties": {
-          "axis": "y"
+          "down": "true",
+          "up": "true"
         }
       }
     },
     "log_target": [
-      "minecraft:oak_log"
+      "fanciertrees:oak_branch"
     ],
     "max_log_depth": 3,
     "orientation": "STANDARD",

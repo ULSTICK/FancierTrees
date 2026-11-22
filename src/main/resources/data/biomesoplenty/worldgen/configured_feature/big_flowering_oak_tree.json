@@ -10,16 +10,12 @@
     "default": "fanciertrees:bop/flowering_oak/large1",
     "features": [
       {
-        "chance": 0.25,
+        "chance": 0.333,
         "feature": "fanciertrees:bop/flowering_oak/large2"
       },
       {
-        "chance": 0.25,
+        "chance": 0.333,
         "feature": "fanciertrees:bop/flowering_oak/large3"
-      },
-      {
-        "chance": 0.25,
-        "feature": "fanciertrees:bop/flowering_oak/small1"
       }
     ]
   }

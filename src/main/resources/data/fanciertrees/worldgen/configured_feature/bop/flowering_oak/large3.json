@@ -30,7 +30,7 @@
         "type": "minecraft:weighted_state_provider",
         "entries": [
           {
-            "weight": 1,
+            "weight": 2,
             "data": {
               "Name": "minecraft:oak_leaves",
               "Properties": {

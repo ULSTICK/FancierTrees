@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "fanciertrees:spruce/spruce1",
+    "features": [
+      {
+        "chance": 0.1,
+        "feature": "fanciertrees:spruce/spruce2"
+      },
+      {
+        "chance": 0.1,
+        "feature": "fanciertrees:spruce/spruce3"
+      },
+      {
+        "chance": 0.25,
+        "feature": "fanciertrees:spruce/thin1"
+      },
+      {
+        "chance": 0.25,
+        "feature": "fanciertrees:spruce/thin2"
+      },
+      {
+        "chance": 0.1,
+        "feature": "fanciertrees:spruce/small1"
+      },
+      {
+        "chance": 0.1,
+        "feature": "fanciertrees:spruce/small2"
+      }
+    ]
+  }
+}

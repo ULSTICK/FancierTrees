@@ -7,19 +7,23 @@
   ],
   "type": "minecraft:random_selector",
   "config": {
-    "default": "fanciertrees:bop/flowering_oak/large1",
+    "default": "fanciertrees:bop/flowering_oak/oak1",
     "features": [
       {
-        "chance": 0.25,
-        "feature": "fanciertrees:bop/flowering_oak/large2"
+        "chance": 0.2,
+        "feature": "fanciertrees:bop/flowering_oak/oak2"
       },
       {
-        "chance": 0.25,
-        "feature": "fanciertrees:bop/flowering_oak/large3"
+        "chance": 0.2,
+        "feature": "fanciertrees:bop/flowering_oak/oak3"
       },
       {
-        "chance": 0.25,
+        "chance": 0.2,
         "feature": "fanciertrees:bop/flowering_oak/small1"
+      },
+      {
+        "chance": 0.2,
+        "feature": "fanciertrees:bop/flowering_oak/small2"
       }
     ]
   }
