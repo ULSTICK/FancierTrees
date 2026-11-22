@@ -1,4 +1,10 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "biomesoplenty"
+    }
+  ],
   "feature": "fanciertrees:bop/rainbow_birch/small2",
   "placement": [
     {

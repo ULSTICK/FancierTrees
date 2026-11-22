@@ -1,4 +1,10 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "biomesoplenty"
+    }
+  ],
   "type": "ohthetreesyoullgrow:tree_from_nbt_v2",
   "config": {
     "base_location": "fanciertrees:features/trees/minimum_trunk",
