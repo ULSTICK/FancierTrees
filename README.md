@@ -13,4 +13,4 @@ This mod has compatibility and custom trees made for:
 ![Biomes o' Plenty Redwood Forest](https://cdn.modrinth.com/data/cached_images/c96df69258819cd0863ae69b3f566af2955fc12a.jpeg)
 
 ## Recommendation
-as this mod makes the trees are really big I recommended you to play with A tree chopping/felling mod.
+As this mod makes the trees really big I recommended you to play with a tree chopping/felling mod.
